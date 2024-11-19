@@ -7,6 +7,10 @@ VR Proklamasi Kemerdekaan is a virtual reality experience that immerses users in
 * Interactive Elements: Engage with various interactive elements to learn more about the events and figures involved in the proclamation.
 * Educational Content: Gain insights into the historical context, significance, and impact of Indonesia's independence through informative content integrated into the VR experience.
 
+## VR Interface
+![image](https://github.com/user-attachments/assets/93a1a55b-1226-4287-a71d-8f00e4d63fa0)
+![image](https://github.com/user-attachments/assets/8c61f029-9a67-422e-baa3-4ededfad3fb4)
+
 ## Technology Stack
 * Unity: Game engine used for developing the VR environment.
 * C#: Programming language for scripting interactions and functionalities within the Unity environment.
